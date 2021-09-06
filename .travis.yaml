@@ -1,0 +1,11 @@
+sudo: required
+services:
+  - docker
+
+scripts:
+  - docker build -t domenico/node .
+  - docker images domenico/node
+
+
+  #for adding the repository
+  #git remote add origin https://github.com/mrguzzi/test.git
