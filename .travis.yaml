@@ -9,3 +9,5 @@ scripts:
 
   #for adding the repository
   #git remote add origin https://github.com/mrguzzi/test.git
+  #git config --global user.name "mrguzzi"
+  #git config --global user.email domenico_rella@yahoo.it
